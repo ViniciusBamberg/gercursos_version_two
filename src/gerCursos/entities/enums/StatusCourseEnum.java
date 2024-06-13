@@ -9,4 +9,6 @@ public enum StatusCourseEnum {
 	public static StatusCourseEnum getStatus(StatusCourseEnum status) {
 			return status;
 	}
+	
+	//USAR ENUMS PARA TRATAR STATUS COMO PAGO OU NÃO EM ANDAMENTO OU NÃO
 }
